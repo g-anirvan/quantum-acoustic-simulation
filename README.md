@@ -65,4 +65,4 @@ Physicist | Researcher in Quantum Computing & Acoustics
 
 ---
 
-⭐ This project is part of an ongoing effort to explore **interdisciplinary computational physics** and develop practical simulation tools.
+This project is part of an ongoing effort to explore **interdisciplinary computational physics** and develop practical simulation tools.
